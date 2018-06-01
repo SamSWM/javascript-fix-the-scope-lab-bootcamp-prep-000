@@ -22,7 +22,7 @@ var theFunk = 'FUNKY!';
 
 function funkyFanction (){
 
- return funkyFanction; 
+ return theFunk; 
   
 }
 
